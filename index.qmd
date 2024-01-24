@@ -43,7 +43,7 @@ execute:
 :::
 ::: {.column width="30%"}
 
-![Joel Mokyr and the importance of upper tail knowledge for technology adoption](assets/Joel_Mokyr.png){width=40%}
+![Joel Mokyr and the importance of upper tail knowledge for technology adoption](assets/Joel_Mokyr.png){width=30%}
 :::
 ::: 
 
