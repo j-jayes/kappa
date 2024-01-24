@@ -3,7 +3,7 @@ title: "Like moths to a flame: an individual level approach to technological cha
 subtitle: "Midway Seminar - 24-01-2024"
 author: 
   - "Jonathan Jayes"
-  - "Superviseed by Kerstin Enflo and Jakob Molinder"
+  - "Supervised by Kerstin Enflo and Jakob Molinder"
 title-slide-attributes:
   data-background-image: "assets/preview_wide.png"
   data-background-position: "bottom 10"
@@ -35,20 +35,18 @@ execute:
 <br>
 
 ::: {.columns}
-::: {.column}
+::: {.column width="70%"}
 - It augments human productivity -> **new jobs**
 
 - It automates away tasks -> **technological unemployment**
 
 :::
-::: {.column}
+::: {.column width="30%"}
 
-![Joel Mokyr and the importance of upper tail knowledge for technology adoption](assets/Joel_Mokyr.png){width=30%}
+![Joel Mokyr and the importance of upper tail knowledge for technology adoption](assets/Joel_Mokyr.png){width=40%}
 :::
 ::: 
 
-
-<br>
 
 
 ::: {.columns}
